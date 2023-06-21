@@ -1,0 +1,27 @@
+.container{
+    text-align: center;
+}
+nav{
+    background-color: black;
+}
+body{
+    background-color: #ddb5814d;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: space-evenly;
+}
+
+.card1{
+    width: 15rem;
+    margin-bottom: 20px;
+}
+
+#title{
+    color: darkcyan;
+}
+
+
